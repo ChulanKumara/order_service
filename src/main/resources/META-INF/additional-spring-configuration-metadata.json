@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "user_service.url",
+      "type": "java.lang.String",
+      "description": "Description for user_service.url."
+    },
+    {
+      "name": "product_service.url",
+      "type": "java.lang.String",
+      "description": "Description for product_service.url."
+    },
+    {
+      "name": "shipping_location_service.url",
+      "type": "java.lang.String",
+      "description": "Description for shipping_location_service.url."
+    }
+  ] }
